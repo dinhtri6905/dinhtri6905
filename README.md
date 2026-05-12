@@ -20,12 +20,6 @@
 
 ## 👋 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/pacman-contribution-graph.svg" width="600">
-</picture>
-
 I am **Nguyen Dinh Tri**, a student at **UIT (University of Information Technology)**, majoring in **Computer Networks and Data Communications**.
 
 I am passionate about technology, cloud systems, networking, and DevOps.  
