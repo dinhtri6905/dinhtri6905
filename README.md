@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F03B9E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Nguyen+Dinh+Tri;UIT+Student;Network+and+Data+Communication;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F03B9E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Nguyen+Dinh+Tri;UIT+Student;Computer+Networks+and+Data+Communications;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Welcome to my GitHub profile ✨</h3>
@@ -34,7 +34,7 @@ I enjoy learning new things, building practical projects, and improving my techn
 
 - 🎓 Student at UIT.
 - 🌐 Major: Computer Networks and Data Communications.
-- 💻 Interested in networking, cloud, DevOps, and system automation.
+- 💻 Interested in networking, Cloud, DevOps, and system automation.
 - 🚀 Always exploring open-source and real-world tech projects.
 
 ---
