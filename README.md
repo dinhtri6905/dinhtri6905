@@ -38,23 +38,6 @@ I enjoy learning new things, building practical projects, and improving my techn
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
@@ -67,27 +50,4 @@ I enjoy learning new things, building practical projects, and improving my techn
   <a href="mailto:nguyendinhtri060905@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🎮 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/pacman-contribution-graph.svg" width="100%" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhtri6905&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtri6905&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinhtri6905&style=flat-square&color=blue" alt="Profile views" />
 </p>
