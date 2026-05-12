@@ -20,12 +20,11 @@
 
 ## 👋 About Me
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="60" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
+</picture>
 
 I am **Nguyen Dinh Tri**, a student at **UIT (University of Information Technology)**, majoring in **Computer Networks and Data Communications**.
 
