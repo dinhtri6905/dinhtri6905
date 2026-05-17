@@ -33,6 +33,6 @@ I enjoy learning new things, building practical projects, and improving my techn
 ---
 
 ## 📫 Contact Me
-Feel free to connect with me!
+Feel free to reach out if you'd like to connect, collaborate, or discuss opportunities.
 
-[![Email](https://img.shields.io/badge/Email-nguyendinhtri060905%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendinhtri060905@gmail.com)
+📧 Email: nguyendinhtri060905@gmail.com
