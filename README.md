@@ -33,15 +33,4 @@ I enjoy learning new things, building practical projects, and improving my techn
 ---
 
 ## 📫 Contact Me
-
-<p align="center">
-  <a href="https://www.facebook.com/dinhtri99999">
-    <img src="https://img.shields.io/badge/FB-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dinhtri596/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nguyendinhtri060905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+contact me: nguyendinhtri060905@gmail.com
