@@ -25,24 +25,16 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=dinhtri6905&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"
     alt="GitHub Streak"
-    height="165"
-  />
+    height="165"/>
 
   <br><br>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dinhtri6905&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues,forks&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=dinhtri6905&theme=tokyonight&hide_border=true&show_icons=true&hide=stars,issues,forks&rank_icon=github"
     alt="GitHub Stats"
-    height="165"
-  />
+    height="165"/>
 
   <br><br>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtri6905&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-    alt="Top Languages"
-    height="165"
-  />
 
 </div>
 
