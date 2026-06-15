@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="YOUR_NAME — DevOps Engineer"/>
 </div>
+=======
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F03B9E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Nguyen+Dinh+Tri;UIT+Student;Networks+and+Data+Communications;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</p>
+>>>>>>> 5a2494af04dc985daf946324a0e944f5053b1477
 
 <br/>
 
@@ -62,6 +68,7 @@ Production-grade GitOps platform on AWS EKS — Terraform-provisioned multi-envi
 
 ---
 
+<<<<<<< HEAD
 **[Kubernetes Monitoring Stack](https://github.com/dinhtri6905/k8s-monitoring-stack)**
 Full-stack observability for Kubernetes — kube-prometheus-stack deployed with Helm, custom Grafana dashboards for cluster and workload visibility, Loki log aggregation, and Alertmanager routing to Slack and email.
 `Prometheus` `Grafana` `Loki` `Alertmanager` `Helm` `Kubernetes`
@@ -115,3 +122,23 @@ Reusable GitHub Actions workflow library for containerized microservices — sem
 <div align="center">
   <sub>Ho Chi Minh City, Vietnam · UIT — VNU-HCM · Computer Networking & Data Communications</sub>
 </div>
+=======
+## 👋 About Me
+
+I am **Nguyen Dinh Tri**, a student at **UIT (University of Information Technology)**, majoring in **Computer Networks and Data Communications**.
+
+I am passionate about technology, cloud systems, networking, and DevOps.  
+I enjoy learning new things, building practical projects, and improving my technical skills every day.
+
+- 🎓 Student at UIT.
+- 🌐 Major: Computer Networks and Data Communications.
+- 💻 Interested in networking, Cloud, DevOps, and system automation.
+- 🚀 Always exploring open-source and real-world tech projects.
+
+---
+
+## 📫 Contact Me
+Feel free to reach out if you'd like to connect, collaborate, or discuss opportunities.
+
+📧 Email: nguyendinhtri060905@gmail.com
+>>>>>>> 5a2494af04dc985daf946324a0e944f5053b1477

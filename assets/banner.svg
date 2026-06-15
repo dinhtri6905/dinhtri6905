@@ -33,7 +33,7 @@
   <text x="48" y="95" font-family="JetBrains Mono, Consolas, monospace" font-size="48" fill="#21262d" font-weight="300">&#123;</text>
 
   <!-- Name -->
-  <text x="110" y="75" font-family="JetBrains Mono, Consolas, monospace" font-size="32" fill="#e6edf3" font-weight="600" letter-spacing="-0.5">YOUR_NAME</text>
+  <text x="110" y="75" font-family="JetBrains Mono, Consolas, monospace" font-size="32" fill="#e6edf3" font-weight="600" letter-spacing="-0.5">Nguyen Dinh Tri</text>
 
   <!-- Divider dot -->
   <circle cx="108" cy="99" r="2" fill="#0ea5e9"/>
