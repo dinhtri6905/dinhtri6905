@@ -11,14 +11,12 @@
 <!-- ## 🧑‍💻 About -->
 ## About
 
+- Computer Networking and Data Communications student at UIT
+- Interested in DevOps Engineering, Site Reliability Engineering (SRE), and Cloud Computing
+- Focused on automation, infrastructure reliability, and modern software delivery practices
+- Continuously learning through hands-on projects and real-world technologies
 
-- 🎓 **Computer Networking and Data Communications** student at **UIT** (University of Information Technology, VNU-HCM)
-- ⚙️ Focused on **DevOps Engineering** — designing and automating deployment pipelines and release workflows
-- ☁️ **Cloud Engineering** on **AWS** — compute, networking, storage, IAM, and managed container services
-- 🐳 Hands-on with **Kubernetes** for container orchestration, scaling, and cluster lifecycle management
-- 🏗️ Infrastructure provisioning with **Terraform** and **GitOps** workflows; proficient in **CI/CD** pipeline design
-
----
+<!-- --- -->
 
 ## GitHub Statistics
 
@@ -61,7 +59,7 @@
   </picture>
 </div>
 
----
+<!-- --- -->
 
 ## Contact
 
