@@ -40,10 +40,10 @@
 
 </div>
 
----
+<!-- --- -->
 
 <!-- ## 🐍 Commit Trails -->
-
+## 
 <div align="center">
   <picture>
     <source
