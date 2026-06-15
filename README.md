@@ -27,14 +27,14 @@
     alt="GitHub Streak"
     height="165"/>
 
-  <br><br>
+  <!-- <br><br> -->
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=dinhtri6905&theme=tokyonight&hide_border=true&show_icons=true&hide=stars,issues,forks&rank_icon=github"
     alt="GitHub Stats"
     height="165"/>
 
-  <br><br>
+  <!-- <br><br> -->
 
 </div>
 
@@ -70,7 +70,5 @@
   [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendinhtri060905@gmail.com)
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=60&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" /> -->
