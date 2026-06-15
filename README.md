@@ -48,7 +48,7 @@
 <!-- --- -->
 
 <!-- ## 🐍 Commit Trails -->
-## 
+<!-- ## 
 <div align="center">
   <picture>
     <source
@@ -64,7 +64,7 @@
       src="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/github-contribution-grid-snake-dark.svg"
     />
   </picture>
-</div>
+</div> -->
 
 <!-- --- -->
 
