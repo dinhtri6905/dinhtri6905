@@ -9,9 +9,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2500&color=58A6FF&center=true&vCenter=true&width=740&lines=Building+cloud-native+infrastructure%2C+automation+platforms%2C+and+modern+DevOps+solutions." alt="Tagline" />
-</div> -->
+</div>
 
-<br>
+<!-- <br> -->
 
 ---
 
