@@ -11,10 +11,10 @@
 <!-- ## 🧑‍💻 About -->
 ## About
 
-- Computer Networking and Data Communications student at UIT
-- Interested in DevOps Engineering, Site Reliability Engineering (SRE), and Cloud Computing
-- Focused on automation, infrastructure reliability, and modern software delivery practices
-- Continuously learning through hands-on projects and real-world technologies
+- Computer Networking and Data Communications student at **UIT**
+- Interested in **DevOps Engineering**, **Site Reliability Engineering (SRE)**, and **Cloud Computing**
+- Passionate about **automation**, **reliability**, and **scalable infrastructure**
+- Continuously learning through hands-on projects and practical experience
 
 <!-- --- -->
 
