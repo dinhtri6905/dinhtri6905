@@ -1,60 +1,84 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Nguyen%20Dinh%20Tri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=56&descSize=22&descColor=8b949e&animation=fadeIn" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2500&color=58A6FF&center=true&vCenter=true&width=740&lines=Building+cloud-native+infrastructure%2C+automation+platforms%2C+and+modern+DevOps+solutions." alt="Tagline" />
+</div>
+
+<br>
+
+---
+
+## 🧑‍💻 About
+
+- 🎓 **Computer Networking and Data Communications** student at **UIT** (University of Information Technology, VNU-HCM)
+- ⚙️ Focused on **DevOps Engineering** — designing and automating deployment pipelines and release workflows
+- ☁️ **Cloud Engineering** on **AWS** — compute, networking, storage, IAM, and managed container services
+- 🐳 Hands-on with **Kubernetes** for container orchestration, scaling, and cluster lifecycle management
+- 🏗️ Infrastructure provisioning with **Terraform** and **GitOps** workflows; proficient in **CI/CD** pipeline design
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-# Nguyen Dinh Tri
-### DevOps Engineer
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dinhtri6905&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"
+    alt="GitHub Streak"
+    height="165"
+  />
 
-Building cloud-native infrastructure, automation platforms, and modern DevOps solutions.
+  <br><br>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dinhtri6905&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues,forks&rank_icon=github"
+    alt="GitHub Stats"
+    height="165"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtri6905&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
+    alt="Top Languages"
+    height="165"
+  />
 
 </div>
 
 ---
 
-## About
-
-- Computer Networking & Data Communications student at UIT — Vietnam National University Ho Chi Minh City
-- Building hands-on projects with AWS, EKS, Terraform, ArgoCD, and Kubernetes in real-world architectures
-- Focused on GitOps workflows, CI/CD automation, Infrastructure as Code, and platform observability
-- Exploring cloud-native security, container orchestration, and scalable infrastructure design
-- Seeking a DevOps Engineer Internship — available in Ho Chi Minh City or remote
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dinhtri6905&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=0ea5e9&text_color=8b949e&count_private=true&include_all_commits=true&hide=prs,issues,stars"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhtri6905&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dinhtri6905&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=0ea5e9&fire=0ea5e9&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e"/>
-
-</div>
-
----
-
-## Contribution Activity
+## 🐍 Commit Trails
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution activity" src="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/github-contribution-grid-snake-dark.svg"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Commit Trails"
+      src="https://raw.githubusercontent.com/dinhtri6905/dinhtri6905/output/github-contribution-grid-snake-dark.svg"
+    />
   </picture>
 </div>
 
 ---
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen_Dinh_Tri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinhtri596/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-nguyendinhtri060905@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyendinhtri060905@gmail.com)
-
----
+## 📬 Contact
 
 <div align="center">
-  <sub>Ho Chi Minh City, Vietnam &nbsp;·&nbsp; UIT — VNU-HCM</sub>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhtri596)
+  &nbsp;&nbsp;
+  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendinhtri060905@gmail.com)
+
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" />
