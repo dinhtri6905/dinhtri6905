@@ -8,7 +8,9 @@
 
 ---
 
-## 🧑‍💻 About
+<!-- ## 🧑‍💻 About -->
+## About
+
 
 - 🎓 **Computer Networking and Data Communications** student at **UIT** (University of Information Technology, VNU-HCM)
 - ⚙️ Focused on **DevOps Engineering** — designing and automating deployment pipelines and release workflows
@@ -18,7 +20,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -40,7 +42,7 @@
 
 ---
 
-## 🐍 Commit Trails
+<!-- ## 🐍 Commit Trails -->
 
 <div align="center">
   <picture>
@@ -61,7 +63,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
