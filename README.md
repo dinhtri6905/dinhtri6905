@@ -33,7 +33,8 @@
     src="https://github-readme-stats.vercel.app/api?username=dinhtri6905&theme=tokyonight&hide_border=true&show_icons=true&hide=stars,issues,forks&rank_icon=github"
     alt="GitHub Stats"
     height="165"/>
-
+  <img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinhtri6905&theme=tokyonight&show_icons=true"/>
   <!-- <br><br> -->
 
 </div>
